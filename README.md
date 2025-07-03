@@ -30,8 +30,10 @@
 
 ### 🔗 Links
 
-- 📧 [Email me](mailto:svlagk21@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/stavros-vlagkogias/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svlagk21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stavros-vlagkogias/)
+
+
 
 ---
 
